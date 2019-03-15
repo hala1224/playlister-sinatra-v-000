@@ -4,5 +4,4 @@ class Artists < ActiveRecord::Migration
       t.string :name
     end
   end
-  end
 end
